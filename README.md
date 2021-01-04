@@ -12,4 +12,4 @@ Menurut orang, aplikasi ini sampah, tapi kalau anda yang bingung ngerjain mtk, a
 4. Belah Ketupat = ✕
 5. Layang-Layang = ✕
 # Release
-Kalau kamu gak mau compile/males compile, langsung aja ke bagian Tags atau Release = https://github.com/GuckTubeYT/Matematika/releases
+Kalau kamu gak mau compile/males compile, langsung aja ke bagian Tags atau Release = https://github.com/Glawtek/Matematika/releases
